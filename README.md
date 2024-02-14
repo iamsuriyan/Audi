@@ -18,7 +18,7 @@ Welcome to the Audi India Clone project! This single-page website, created in Ju
 
 - HTML
 - CSS
-- Owl Carousel (Include version or link)
+- Owl Carousel
 
 ## Acknowledgments
 
